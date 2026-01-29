@@ -1,0 +1,1 @@
+Verified that all simulators are running, logs are generated correctly, and the archival and analysis scripts work as intended.
