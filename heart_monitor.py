@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 
 # Directory and file configuration
-LOG_DIR = "active_logs"
+LOG_DIR = "hospital_data/active_logs"
 LOG_FILE = os.path.join(LOG_DIR, "heart_rate_log.log")
 PID_FILE = "/tmp/heart_rate_monitor.pid"
 DEVICES = ["HeartRate_Monitor_A", "HeartRate_Monitor_B"]
